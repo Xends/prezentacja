@@ -1,0 +1,20 @@
+From ff88bdb633e49a35e919c7e1aa3dec749b0308f5 Mon Sep 17 00:00:00 2001
+From: "Adrian-TOSH\\Adrian" <Adis546@wp.pl>
+Date: Wed, 19 Oct 2016 19:36:28 +0200
+Subject: [PATCH] no message
+
+---
+ plik.txt.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/plik.txt.txt b/plik.txt.txt
+index 1584031..aeed68e 100644
+--- a/plik.txt.txt
++++ b/plik.txt.txt
+@@ -1,2 +1,3 @@
+ Cokolwiek
+ kappa
++wtf?
+-- 
+2.10.1.windows.1
+
